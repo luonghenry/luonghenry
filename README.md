@@ -12,4 +12,4 @@ I am a **System Engineer** evolving into an **AI Cloud & MLOps Engineer**, focus
 - Automating LLM deployment pipelines.
 - Optimizing cloud costs for large-scale AI models.
 
-📫 **How to reach me: wakawakutech.dev@gmail.com
+📫 **How to reach me**: wakawakutech.dev@gmail.com
