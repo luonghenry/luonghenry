@@ -1,7 +1,19 @@
-### 💫 About Me:
-### Hi there, I'm Henry 👋<br><br>I am a **System Engineer** evolving into an **AI Cloud & MLOps Engineer**, focusing on building and optimizing scalable infrastructure for GenAI & LLMs.<br><br>
-### 🛠️ Tech Stack & Tools<br><br>- **Cloud & Infra:** AWS (SageMaker, EC2), GCP (Vertex AI), Docker, Kubernetes, Terraform<br>- **AI / ML Ops:** MLflow, LangChain, LlamaIndex, OpenAI API, Hugging Face<br>- **Languages:** Python, JavaScript, Bash / Shell<br><br>
-### 🔭 Current Focus<br>- Automating LLM deployment pipelines.<br>- Optimizing cloud costs for large-scale AI models.<br><br>
+## 💫 About Me:
+
+## Hi there, I'm Henry! 👋
+
+I am a **System Engineer** who successfully escaped the endless loop of *"Nó chạy bình thường trên máy em mà..."* 💻
+
+Right now, I am evolving into an **AI Cloud & MLOps Engineer**. Basically, my job is to make sure the AI doesn't burn down the cloud infrastructure while trying to figure out if a photo is a dog or a blueberry muffin. 🤖☁️
+
+### 🛠️ What I Actually Do:
+- **Cloud & Infra:** Playing hide-and-seek with AWS & GCP bills.
+- **AI / ML Ops:** Keeping LLMs fed, trained, and hydrated.
+- **Languages:** Speaking fluent Python, JavaScript, and crying in Bash/Shell.
+
+### 🔭 Current Focus
+- Automating LLM deployment pipelines so I can spend more time drinking coffee.
+- Optimizing cloud costs before my manager finds out how much that deep learning model cost.
 
 
 # 💻 Tech Stack:
