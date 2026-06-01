@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Henry 👋
 
-<!--
-**luonghenry/luonghenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **System Engineer** evolving into an **AI Cloud & MLOps Engineer**, focusing on building and optimizing scalable infrastructure for GenAI & LLMs.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Cloud & Infra:** AWS (SageMaker, EC2), GCP (Vertex AI), Docker, Kubernetes, Terraform
+- **AI / ML Ops:** MLflow, LangChain, LlamaIndex, OpenAI API, Hugging Face
+- **Languages:** Python, JavaScript, Bash / Shell
+
+### 🔭 Current Focus
+- Automating LLM deployment pipelines.
+- Optimizing cloud costs for large-scale AI models.
+
+📫 **How to reach me:** [Your Email or LinkedIn Link]
